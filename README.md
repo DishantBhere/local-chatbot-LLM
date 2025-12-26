@@ -1,7 +1,6 @@
 # 🧠 Ollama Local Chatbot  
-## 🎯 Run LLMs Locally with Python Terminal Interface 🚀
+### 🎯 Run LLMs Locally with Python Terminal Interface 🚀
 
----
 
 ## 👋 Introduction
 
@@ -105,15 +104,9 @@ Handling local APIs and JSON responses
 
  Add markdown/text formatting to responses
 
-# 🙋‍♂️ Built By
 
-👨‍💻 Dishant Bhere
-
-📧 dishantwork7@gmail.com
-
-🌐 https://github.com/DishantBhere
-
-📍 India
+### 👨‍💻 Made with 💛 by:
+ [DishantBhere](https://github.com/DishantBhere)  
 
 
 ---
